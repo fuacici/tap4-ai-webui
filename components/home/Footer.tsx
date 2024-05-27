@@ -23,8 +23,8 @@ function InfoLink({
 }
 
 const tap4ai = {
-  title: 'Tap4 AI',
-  href: 'https://www.tap4.ai',
+  title: 'AI Tools 4X - AI Tools for AnyThing, EveryOne',
+  href: 'https://www.aitools4x.com/',
 };
 
 export default function Footer() {
